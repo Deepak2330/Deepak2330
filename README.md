@@ -22,17 +22,26 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 
 <!-- Projects Section -->
 ## 🛠️ Projects
-- [Project 1: OWnCloud-Docker-Compose](#) -
-Operating System: Linux.\\
-• Pull images from DockerHub
-• Create Docker volumes for permanent use.
-• Set Up MySQl Database.
-• Set up ownCloud self-hosted file sync and share server.
-- [Project 2: Automated Build and Deployment of Web Application using Jenkins](#) -
-- Operating System: Linux.
-• Set up a Jenkins server: This can be done on a local machine or on a cloud-based virtual machine.
-• Continuously improve the process: Continuously evaluate and improve the build and deployment process to
-make it more efficient and reliable.
+<ul>
+        <li>
+            <a href="#">Project 1: OWnCloud-Docker-Compose</a>
+            <br>
+            Operating System: Linux.
+            <ul>
+                <li>Pull images from DockerHub</li>
+                <li>Create Docker volumes for permanent use.</li>
+                <li>Set Up MySQL Database.</li>
+                <li>Set up ownCloud self-hosted file sync and share server.</li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#">Project 2: Automated Build and Deployment of Web Application using Jenkins</a>
+            <br>
+            Operating System: Linux.
+            <ul>
+                <li>Set up a Jenkins server: This can be done on a local machine or on a cloud-based virtual machine.</li>
+                <li>Continuously improve the process: Continuously evaluate and improve the build and deployment process to make it more efficient and reliable.</li>
 
 
 <!-- Connect Section -->
