@@ -35,16 +35,7 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
             </ul>
         </li>
 
-        <li>
-            <a href="#">Project 2: Automated Build and Deployment of Web Application using Jenkins</a>
-            <br>
-            Operating System: Linux.
-            <ul>
-                <li>Set up a Jenkins server: This can be done on a local machine or on a cloud-based virtual machine.</li>
-                <li>Continuously improve the process: Continuously evaluate and improve the build and deployment process to make it more efficient and reliable.</li>
-
-
-<!-- Connect Section -->
+       <!-- Connect Section -->
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepak-m-9370261b4)
 - Instagram: [@YourTwitterHandle](https://www.instagram.com/mr__deepak__m/)
