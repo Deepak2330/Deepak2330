@@ -36,9 +36,13 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
         </li>
 
        
-## 📫 Connect with Me
-- LinkedIn: [Deepak M](https://www.linkedin.com/in/deepak-m-9370261b4)
-- Instagram: [@mr__deepak__m](https://www.instagram.com/mr__deepak__m/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-m-9370261b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-m-9370261b4" height="30" width="40" /></a>
+<a href="https://kaggle.com/deepakm07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deepakm07" height="30" width="40" /></a>
+<a href="https://instagram.com/mr__deepak__m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__deepak__m" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@9901845901dk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@9901845901dk" height="30" width="40" /></a>
+</p>
 
 <!-- Footer Section -->
 ## 📈 GitHub Stats
