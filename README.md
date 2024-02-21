@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Deepak M</h1>
+<!-- GitHub Banner -->
+<div style="width:100%; height:200px; background-color:#0366d6; text-align:center; padding:20px;">
+    <h1 style="color:#ffffff;">Welcome to My GitHub Profile</h1>
+    <p style="color:#ffffff; font-size:18px;">Exploring the world of coding and development!</p>
+</div><h1 align="center">Hi 👋, I'm Deepak M</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
 - 🌱 I’m currently learning **Devops**
