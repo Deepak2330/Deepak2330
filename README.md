@@ -1,6 +1,6 @@
 <img src="Neon Futuristic Gaming Youtube Banner.png" alt="Image Description"   align="centre">
 <!-- Header Section -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Deepak M
 
 I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 
@@ -16,23 +16,34 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 
 <!-- Technologies Section -->
 ## 🔧 Technologies & Tools
-- **Cloud:** AWS, Azure
+- **Cloud:** AWS, 
 - **Containerization:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitLab CI
+- **CI/CD:** Jenkins, 
 - **Infrastructure as Code:** Terraform, CloudFormation
 - **Version Control:** Git, GitHub
 - **Scripting:** Bash, Python
-- **Monitoring:** Prometheus, Grafana
+- **Monitoring:** Cloud Watch
+- **Programming Languages:** JAVA 
 
 <!-- Projects Section -->
 ## 🛠️ Projects
-- [Project 1: Title](#) - Brief description.
-- [Project 2: Title](#) - Brief description.
+- [Project 1: OWnCloud-Docker-Compose](#) -
+Operating System: Linux.
+• Pull images from DockerHub
+• Create Docker volumes for permanent use.
+• Set Up MySQl Database.
+• Set up ownCloud self-hosted file sync and share server.
+- [Project 2: Automated Build and Deployment of Web Application using Jenkins](#) -
+- Operating System: Linux.
+• Set up a Jenkins server: This can be done on a local machine or on a cloud-based virtual machine.
+• Continuously improve the process: Continuously evaluate and improve the build and deployment process to
+make it more efficient and reliable.
+
 
 <!-- Connect Section -->
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepak-m-9370261b4)
+- Instagram: [@YourTwitterHandle](https://www.instagram.com/mr__deepak__m/)
 
 <!-- Footer Section -->
 ## 📈 GitHub Stats
