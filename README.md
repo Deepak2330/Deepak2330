@@ -4,11 +4,6 @@
 
 I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 
-<!-- Badges Section -->
-![DevOps](https://img.shields.io/badge/Role-DevOps-blue?style=flat-square&logo=amazon-aws&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)
-
 <!-- Introduction Section -->
 ## 🚀 About Me
 - 👨‍💻 DevOps Engineer with a focus on CI/CD, automation, and cloud technologies.
@@ -28,7 +23,7 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 <!-- Projects Section -->
 ## 🛠️ Projects
 - [Project 1: OWnCloud-Docker-Compose](#) -
-Operating System: Linux.
+Operating System: Linux.\\
 • Pull images from DockerHub
 • Create Docker volumes for permanent use.
 • Set Up MySQl Database.
