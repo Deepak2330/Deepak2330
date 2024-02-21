@@ -37,8 +37,8 @@ I'm a passionate DevOps Engineer, always striving for automation and efficiency.
 
        
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepak-m-9370261b4)
-- Instagram: [@YourTwitterHandle](https://www.instagram.com/mr__deepak__m/)
+- LinkedIn: [Deepak M](https://www.linkedin.com/in/deepak-m-9370261b4)
+- Instagram: [@mr__deepak__m](https://www.instagram.com/mr__deepak__m/)
 
 <!-- Footer Section -->
 ## 📈 GitHub Stats
