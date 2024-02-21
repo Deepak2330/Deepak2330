@@ -5,7 +5,7 @@
     <p style="color:#ffffff; font-size:18px;">Exploring the world of coding and development!</p>
 </div><h1 align="center">Hi 👋, I'm Deepak M</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
-<source src="Pink Elegant Lash Makeup Brow artist Beauty Logo.mp4" type="video/mp4" width="400px" align="right">
+<source src="Pink Elegant Lash Makeup Brow artist Beauty Logo.mp4" type="video/mp4" >
 
 - 🌱 I’m currently learning **Devops**
 
