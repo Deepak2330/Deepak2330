@@ -1,4 +1,4 @@
-<img src="Neon Futuristic Gaming Youtube Banner.png" alt="Image Description" width="300" align="centre">
+<img src="Neon Futuristic Gaming Youtube Banner.png" alt="Image Description" width="100vw" height="100vh"  align="centre">
 <!-- GitHub Banner -->
 <div style="width:100%; height:200px; background-color:#0366d6; text-align:center; padding:20px;">
     <h1 style="color:#ffffff;">Welcome to My GitHub Profile</h1>
