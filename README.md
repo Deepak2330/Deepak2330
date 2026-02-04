@@ -121,17 +121,3 @@ Government Science College | 2018 – 2023
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak2330&show_icons=true&theme=radical)
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2330&show_icons=true&locale=en&layout=compact" />
-</p>
-
----
-
-✨ *Feel free to explore my repositories and connect with me!*
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2330&show_icons=true&locale=en&layout=compact" alt="deepak2330" /></p>
