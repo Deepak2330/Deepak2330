@@ -1,7 +1,7 @@
 <img src="Neon Futuristic Gaming Youtube Banner.png" alt="Image Description"   align="centre">
 <!-- Header Section -->
 # Hi there! 👋 I'm Deepak M
-# 👋 Hi, I'm Deepak M
+
 
 I'm a **Technical Writer** with strong exposure to **DevOps, Cloud, and Automation concepts**, passionate about creating **clear, structured, and user-focused documentation**.
 
