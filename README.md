@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="Neon Futuristic Gaming Youtube Banner.png" alt="Deepak M GitHub Banner" width="100%" />
+  <img src="banner.png" alt="Deepak M - Technical Writer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Deepak M</h1>
@@ -31,6 +31,7 @@ My expertise includes:
 - 🔍 Reviewing JSON/YAML specifications, schema definitions, references, required fields, enums, and error responses.
 - 🛠️ Managing developer portal content, CMS publishing, and QA-to-production documentation workflows.
 - 🤝 Collaborating with software engineers, product managers, SMEs, QA teams, and documentation reviewers.
+- ☁️ Applying a **DevOps and cloud background** (AWS, Docker, Kubernetes, Terraform, CI/CD) to document developer platforms accurately.
 - ✍️ Developing user guides, installation manuals, SOPs, release notes, and technical procedures.
 
 **My goal:** Bridging the gap between complex engineering concepts and clear, reliable, developer-friendly documentation.
@@ -83,6 +84,36 @@ Supporting the creation, migration, review, and publication of API and developer
 
 ---
 
+## 🚀 Key Projects — eBay Developer Program
+
+### 1️⃣ GraphQL Listing API Guides
+- Wrote and restructured the **Listing Creation** and **Listing Management** guides, including API use cases, `createListing` mutation walkthroughs for single- and multi-SKU listings, and CMS-ready code samples.
+- Defined API ordering across the Listing, Inventory, Sell Feed, and Trading APIs in guide introductions.
+- Validated field names against the supergraph so only supported fields are documented.
+
+🔗 [Listing Creation](https://developer.ebay.com/develop/guides/sell/listing-creation) · [Listing Management](https://developer.ebay.com/develop/guides/sell/listing-management)
+
+### 2️⃣ Modern APIs Migration Guide (Trading API → REST & GraphQL)
+- Updated the guide that maps Trading API calls, Post-Order methods, and Platform Notifications to their REST/GraphQL replacements, including Listing API migration differences.
+- Repaired CMS table structures and revalidated links against schemas and rendered pages.
+
+🔗 [Modern APIs Migration Guide](https://developer.ebay.com/develop/guides/sell/modern-apis-migration-guide)
+
+### 3️⃣ GraphQL Rate Limits, App Insights & Developer Analytics APIs
+- Documented per-operation GraphQL rate limits on the API Call Limits pages for Sell and Buy APIs.
+- Wrote App Insights API content (`applicationApiRateLimits`, `userApiRateLimits`, `bulkDataTransferThresholds`) and Developer Analytics rate-limit methods (`getRateLimits`, `getUserRateLimits`).
+- Verified content from QA through production.
+
+🔗 [API Call Limits](https://developer.ebay.com/develop/get-started/api-call-limits) · [App Insights API](https://developer.ebay.com/develop/api/sell/app_insights_api_)
+
+### 4️⃣ Commerce Feedback API (OpenAPI)
+- Updated the OpenAPI specification for `getFeedback` and `getFeedbackRatingSummary`.
+- Audited engineering requirements for request vs. response period semantics (30/180/365-day filters), `excludeRepeatFeedback` behavior, and related error codes.
+
+🔗 [Feedback API](https://developer.ebay.com/develop/api/sell/feedback_api)
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 📘 API & Developer Documentation
@@ -125,17 +156,16 @@ Supporting the creation, migration, review, and publication of API and developer
 - Slack
 - Content Management Systems (CMS)
 
-### ☁️ Cloud & Technology Foundation
+### ☁️ DevOps, Cloud & Technology Foundation
 
-- AWS Cloud
-- Cloud Computing
-- Linux
-- Python
-- Java
-- JSON
-- YAML
-- HTML & CSS
-- JavaScript
+- AWS Cloud, Azure, Cloud Computing
+- Docker, Kubernetes, OpenShift
+- Jenkins, Terraform, Ansible (CI/CD & Infrastructure as Code)
+- Git, Linux
+- Prometheus, Grafana
+- Python, Java
+- JSON, YAML
+- HTML & CSS, JavaScript
 
 ### 🔄 Methodologies
 
